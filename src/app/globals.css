@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 0 0% 3.9%;
+  }
+
+  .dark {
+    --background: 0 0% 3.9%;
+    --foreground: 0 0% 98%;
+  }
+}
+
+@layer base {
+  /* Tighter tracking for h1, h2 */
+  h1, h2 {
+    @apply font-semibold;
+  }
+
+  /* Normal tracking for h3, h4 */
+  h3, h4 {
+    @apply tracking-normal font-medium;
+  }
+
+  /* Base text color and background */
+  body {
+    @apply bg-background text-foreground;
+  }
+}
