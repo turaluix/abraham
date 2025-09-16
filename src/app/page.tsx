@@ -34,7 +34,7 @@ export default function Home() {
       <div className="w-full max-w-md">
         <Card>
           <CardHeader className="text-center">
-            <CardTitle className="text-3xl font-bold">Welcome to Abraham AI</CardTitle>
+            <CardTitle className="text-3xl font-bold">Welcome to Intelligent AI</CardTitle>
             <CardDescription className="text-lg">
               Your intelligent document processing and analysis platform
             </CardDescription>

@@ -187,7 +187,7 @@ console.log(results2);`
           Search API Documentation
         </h1>
         <p className="text-muted-foreground mt-2">
-          Complete guide to Abraham AI's AI-powered hybrid search API
+          Complete guide to Intelligent AI's AI-powered hybrid search API
         </p>
       </div>
 
@@ -281,7 +281,7 @@ console.log(results2);`
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             <div className="space-y-2">
               <h4 className="font-semibold">Base URL</h4>
-              <code className="bg-slate-100 dark:bg-slate-800 px-2 py-1 rounded text-sm font-mono">https://api.whelp.ai</code>
+              <code className="bg-slate-100 dark:bg-slate-800 px-2 py-1 rounded text-sm font-mono">https://api.intelligent.codes</code>
             </div>
             <div className="space-y-2">
               <h4 className="font-semibold">Authentication</h4>

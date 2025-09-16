@@ -48,7 +48,7 @@ export default function AuthenticatedLayout({
           <SidebarHeader>
             <div className="flex items-center gap-2">
               <FileText className="h-6 w-6" />
-              <span className="font-semibold">Abraham AI</span>
+              <span className="font-semibold">Intelligent AI</span>
             </div>
           </SidebarHeader>
           <SidebarContent>
